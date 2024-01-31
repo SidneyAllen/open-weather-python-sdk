@@ -2,9 +2,9 @@
 build-backend = "setuptools.build_meta"
 requires = ["setuptools>=61.0"]
 [project]
-name = "open-weather-sdk"
+name = "open-weather-generated-sdk"
 description = "open weather api"
-version = "2.5.1"
+version = "2.5.2"
 readme = "README.md"
 requires-python = ">=3.7"
 keywords = ["api", "weather"]
